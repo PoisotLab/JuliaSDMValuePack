@@ -1,0 +1,19 @@
+{
+   "title": "SimpleSDMLayers.jl and GBIF.jl: A Framework for Species Distribution Modeling in Julia",
+   "description": "Do NOT use these packages - they are for JOSS archival purpose only.",
+   "upload_type": "software",
+   "creators": [
+      {
+         "affiliation": "Université de Montréal",
+         "name": "Dansereau, Gabriel",
+         "orcid": "0000-0002-2212-3584"
+      },
+      {
+         "affiliation": "Université de Montréal",
+         "name": "Poisot, Timothée",
+         "orcid": "0000-0002-0735-5184"
+      }
+   ],
+   "access_right": "open",
+   "license": "mit-license"
+}
